@@ -1,0 +1,1293 @@
+{1613}{1711}¿Qué hiciste cabron?|¿Puta pero qué hic...?
+{1712}{1771}- Nada, buey, nada.|- ¿Cómo que nada, cabron? Vámonos pendejo.
+{1796}{1856}puta_madre, se está desangrando, chingo.
+{1885}{1938}Todavía vienen? 
+{1966}{2037}- Que todavía vienen|- No, sé. No los veo. puta_madre, está desangrando un chingo, cabron. 
+Tápale la herida allí, tápale la herida allí.
+{2038}{2100}Carajo, sangra muchísimo.
+Chingo cabron
+{2101}{2168}- Para la sangre.|- No puedo, cabron. 
+{2169}{2224}- Usa tu dedo, cabron.|- Hay mucho sangre, buey.
+{2254}{2326}Aquí vienen esos sujetes. Métele buey!
+{2327}{2370}puta_madre.
+{2371}{2402}Métele buey!
+{2458}{2495}Puta pinches sujetes. 
+{2613}{2666}- Chingue su madre!|- Cuidado.
+{2905}{2955}- Madre, se cayó.|- ¿Se murió?
+Madre.
+{2956}{3040}¿por_qué te metiste con esos pinches cabrones?
+{3041}{3090}¿Se murió, carajo? Carajo, se murió?
+{3091}{3121}Contéstame, chingo
+{3122}{3168}No, pero sigue cayéndose.
+{3169}{3223}puta_madre, se está sangrando aún más.
+{3322}{3385}- Le tapé la herida.| Verga, verga!- Agáchate.
+{3431}{3483}Tienen una pistola, cabron| cabron, tienen una pistola, guey. Pinche, chingao. Pura mierda. 
+Pendejo! Pendejo! A_huevo!
+{3879}{3937}Sigue a derecho cabron. Vayamos a la casa de Chilaquil, buey. 
+{4029}{4067}puta_madre. 
+{4141}{4194}- Métele cabron, métele!|- Agáchate, buey.
+{4325}{4369}Métele cabron! Métele buey!
+{4672}{4708}La ventanita.
+{4709}{4767}La ventanita,| eso es. Vele, vele. 
+{5404}{5452}¿Listo, padrino?
+{5503}{5543}¿Cuánto le vas a ir?
+{5567}{5620}Pues, diez mil.
+{5621}{5675}¿Qué onda, le avientan por diez mil?
+{5676}{5721}órale
+{5758}{5801}Van con diez.
+{5802}{5843}Van con diez, señores.
+{6017}{6076}10 á Pancho,|diez á Turco.
+{6132}{6167}Sálenlos.
+{6383}{6411}Vaya!
+{6527}{6568}Suéltenlos.
+{6861}{6907}Cofi.
+{6908}{6976}Cofi.| Cofi, ven.
+{7081}{7133}Pinche perro, carajo.
+{7471}{7518}Hola, señora.
+{7548}{7583}¿Cómo siguió?
+{7584}{7641}Está mejor. |Le bajó la fiebre. 
+{7709}{7775}Susana,| no te voy a poder cuidar mañana a Rodrigo .
+{7776}{7802}¿Por?
+{7842}{7925}Porque tengo que ver mi hermana y ayudar con la mudanza
+{7925}{7973}y quiero ir al mercado.
+{7973}{8024}Señora, dé me chanza, mañana tengo final de matemáticas.| si quieres yo le plancho hoy.
+No. 
+{8133}{8183}Deja al niño| con tu madre.
+{8184}{8242}¿Mi mamá?
+{8243}{8328}Sólo esta semana.| Luego me arreglaré.
+{8388}{8437}Yo crié a mis hijos,
+{8438}{8503}ahora tú cría al tuyo.
+{9273}{9324}Chingalo, Turco.
+{9411}{9521}¿Lo paro?|Si seguimos, te lo van a matar, hermano. 
+{9546}{9624}Pero tranquilo.| Ahora se recupera, no pedo. 
+{9625}{9657}Chingalo, chingalo!
+{9952}{10023}- ¿Qué pasó, Má?|- Siéntate y come.
+{10024}{10096}¿Cómo estás, pelón? Qué pasa pinche pelón?
+{10121}{10170}- ¿Cómo sigue?|- Mejor.
+{10317}{10368}Gracias.
+{10369}{10415}¿Sabes?|A los niños nacidos en Guadalajara
+{10416}{10464}les meten un dedo por el culo. 
+{10465}{10534}- ¿Para?|- Para ver qué va a ser grande. 
+{10535}{10612}Si patea,| será futbolista.
+{10613}{10665}Si grita,| mariachi.
+{10666}{10733}Y si se ríe,| será maricón.
+{10785}{10834}¿Y si son niñas, que les hacen?
+{10835}{10912}Se los meten hasta| que cumplen 18 años.
+{10913}{10993}Deja con tus tonterías |Octavio.
+{10994}{11031}¿Susana?
+{11093}{11166}¿Susana?|¿Me manchaste el uniforme?
+{11167}{11225}Míralo, como quedó.
+{11358}{11397}¿Y el Cofi?
+{11422}{11481}¿Dónde está ese pinche perro? Eh? 
+{11506}{11551}- ¿No hay "hola"...?|- ¿Adónde?
+{11552}{11600}- No lo sé.|- Siéntate y come.
+{11601}{11691}Dejaste que escapara otra vez,|¿ verdad, pendeja?
+{11692}{11783}Cuantas veces te digo que cuides| para que no se salga. Eh?
+{11829}{11856}Ya, bájale.|- ¿Cómo te metas?
+{11857}{11959}A ti no te importa ese pinche perro, hijo.| Yo le doy de comer.
+{11960}{12032}Tú no te metas. Es entre mi esposa y yo.
+{12033}{12101}Yo soy quien lo dejó ir, buey, |así que déjala.
+{12101}{12154}No te metas.
+Cállate, niño, cállate. 
+{12155}{12201}Aquí está tu lana, menos 500 de la comisión.
+{12519}{12573}Ya llevas 10 peleas sin perder.
+{12574}{12671}- Pinche suerte, gordo.|- órale
+{12672}{12720}- Nos vemos el sábado.|- Ya vas
+{12749}{12811}Pale, pale!¿Llévate tu perro!
+{12812}{12882}Ásalo si quieres,| cabron
+{12903}{12977}Champiñón,| jálate ese perro por allá. Pero rápido hijo!
+Moviéndote! 
+{13136}{13201}El maldito perro sigue caliente
+{13229}{13269}Échemelo
+{13293}{13329}No se deja cabron. Ahora se le baja. 
+{13329}{13412}Tíraselo a esos perros.
+{13482}{13532}órale
+{14599}{14670}Dale, buey. Tienes otro chito, cabron
+{14671}{14741}- No_mames, es el perro de Octavio.|- Por eso, cabron.
+{14953}{15016}- ¿Puedo?|- Sí.
+{15131}{15191}Gracias por lo de antes.
+{15192}{15228}¿De qué? 
+Pues, eso de Cofi. 
+{15229}{15320}Estuvo bien que te echaras la culpa.
+{15429}{15468}¿Qué te pasó allí?
+{15503}{15550}No es nada.
+{15601}{15646}¿Te lo hizo Ramiro?
+{15695}{15755}Sí, pero fue sin querer. 
+{15803}{15851}¿Sin querer? 
+{15852}{15903}Ya sabes cómo es.
+{15948}{16055}Pinche Susana. ¿por_qué lo soportas?|Te trata como una chingada, hijo. 
+{16141}{16200}No siempre, buey.
+{17070}{17129}Alguien te buscan.
+{17193}{17252}- Espérame un ratito.|- Ajá.
+{17340}{17422}Sabes que Ramiro no le gusta que Susana esté en tu cuarto.
+{17423}{17464}Veíamos la tele. 
+{17465}{17522}A tu hermano no le gusta, y a mí tampoco.
+{17523}{17571}Es la última vez,|¿me entiendes?
+{17572}{17605}La última.
+{17647}{17701}- ¿Qué onda may?|- no_mames, lo que pasó, cabron.
+{17702}{17725}¿Qué?
+{17726}{17795}Tu perro, cabron. Mató al Pancho del Jarocho.
+{17796}{17829}¿Qué estuvo?
+{17829}{17892}Pinche Jarocho le tiró al Pancho al tu perro, buey
+{17893}{17959}pero el Cofi| lo vio venir. Se chapar por atrás. 
+{17960}{18012}Y mocos, que le rompió el cuello y lo mató. 
+{18013}{18091}- ¿Dónde está Cofi?|- Aquí viene.
+{18092}{18149}Cofi. Vente por acá.
+{18263}{18316}El otro perro| no lo tocó.
+{18426}{18467}¿Qué pasa, Octavio?
+{18468}{18535}¿Sabes lo que hizo| el desmadre de tu perro?
+{18536}{18603}- Sí. Ya me enterré.|- ¿ Y cómo la ves?
+Bien, no? Chido. 
+{18604}{18679}Chido?
+{18736}{18792}Si la vio la pinche marca, cabron.
+{18793}{18831}Bajan al Pancho.
+{19218}{19285}¿Ves lo que hizo?
+{19286}{19361}Este perro valía al menos 20.000 pesos, sabías?
+{19401}{19493}Pues, deberías disecarlo, buey| para tu sala.
+{19494}{19578}No te hagas el chistosito, pinche escuincle. 
+{19579}{19688}Tienes dos opciones, maestro. Me lo pagas, o me lo pagas, cabron.
+{19689}{19739}¿por_qué debería pagarte, buey?
+{19740}{19797}Te vas a poner mamón?|órale.
+{19798}{19893}No, no, oye. ¿por_qué le echaste al Pancho?
+{20078}{20156}Mira, buey. Te perdono, si me das tu perrito.
+{20157}{20205}y me olvidaré.
+{20206}{20256}Estás pendejo. 
+{20309}{20366}Pues ahorrarle. 
+{20367}{20414}porque te lo voy a cobrar, cabron. 
+{20459}{20541}Haz que Ramiro pague si eres tan bueno.
+{20542}{20590}¿Temes que vuelva a romper tu madre?
+{20631}{20699}De le saco, cabron.
+{20700}{20757}No aceptaré más mierda.
+{20758}{20815}¿Entiendes, Octavio?
+{20867}{20901}Vámonos.
+{21071}{21116}¿Qué onda contigo, buey?
+{21238}{21292}¿Tienes un porro?
+{21344}{21440}Ramiro, necesito dinero.
+{21441}{21534}No tengo. Mi trabajo me paga el viernes.
+{21535}{21572}¿Y yo, qué hago?
+{21573}{21637}El niño necesita pañales y su leche,
+{21638}{21702}además los huevos que comes no son gratis.
+{21703}{21767}- No tengo lana.|- "No tengo lana."
+{21866}{21925}¿Entonces qué? No tienes dinero?
+{21926}{21983}¿Que no oíste?
+{21984}{22044}¿Las farmacias no son buen negocio?
+{22072}{22131}Cierra tu hocico, o ya verás. 
+{22214}{22268}Cómo es, pendejo. 
+{22293}{22342}Una más raje y te rompe el hocico. 
+Mi madre adorno, te quítelo pendejo. 
+{23593}{23686}- Jimena me quitó la diadema.|- Vuélvesela.
+{23687}{23733}De verdad, la diadema es mía.
+{23734}{23787}No es cierto. A mí me la regalaron. 
+{23788}{23869}Mentirosa, la compré en la tienda.
+{23869}{23925}Dásela. Nunca la usas.
+{24353}{24383}¿Bueno?
+{24452}{24518}- ¿Quién era, mi amor?|- Colgaron.
+{24547}{24644}¿De nuevo el mudo?|¿O quizá la muda?
+{24759}{24788}Yo contesto. 
+{24852}{24885}¿Bueno?
+{24886}{24930}¿Bueno?
+{24956}{25002}Otra vez colgaron.
+{25003}{25053}Qué raro.
+{25261}{25307}¿Se puede?
+{25308}{25352}¿Qué onda?
+{25408}{25453}¿Vas a salir?
+{25453}{25516}¿Por?
+{25517}{25560}Por nada.
+{25617}{25661}¿Pasa algo?
+{25662}{25698}Es que...
+{25732}{25774}¿Qué pasó?
+{25775}{25852}Tengo una bronca y no sé qué hacer.
+{25901}{25995}Estoy embarazada otra vez. 
+{25996}{26092}Pinche Susana,|¿ya quieres otro niño?
+{26093}{26135}Yo no lo quería, buey.
+{26169}{26230}Ramiro me va a matar.
+{26304}{26361}No. Pues, claro que no. 
+{26361}{26413}Enloqueció una vez,
+{26414}{26471}pero se casó contigo,|¿ verdad?
+{26545}{26640}Sí, pero no sé si quiero seguir con él.
+{26679}{26761}No puedo tener este bebé, Octavio.
+{26789}{26845}¿Piensas en abortar?
+{26872}{26917}¿Si no, qué hago?
+{26917}{26984}¿Qué carajo puedo hacer?
+{27045}{27085}Vente conmigo.
+{27115}{27156}¿Qué?
+{27157}{27202}Si vente conmigo, ven. Vámonos muy lejos de aquí. 
+{27257}{27303}Hablo en serio.
+{27304}{27332}Yo también.
+{27333}{27420}No decías pendejadas.|¿Adónde vamos a ir?
+{27556}{27644}- ¿Qué haces, cabron?|- Vente conmigo.
+{27872}{27954}- ¿Cuántos allí?|- Seis perras, tres bueyes. 
+{27955}{27989}- ¿Listo?|- Aguanta. 
+{27989}{28056}Esa gorda va a entrar. Huelo efectivo.
+{28057}{28120}¿Alguna vez te cogiste una gorda así?
+{28121}{28224}- Yo sí, es bien chingon.|- ¿En serio? ¿Quién?
+{28225}{28279}Tu madre, buey. 
+{28317}{28440}Algún día vamos a robar ese pinche banco, ya verás.
+{28441}{28539}- Cálmate, Chanoc.|- Lo haremos en grande, cabron.
+{28540}{28612}Tras ese pinche banco, me voy de aquí.
+{28613}{28656}Hay mucha inseguridad.
+{28694}{28752}Vamos, ya entró.
+{29105}{29180}Todos al piso. Al suelo, buey! Al suelo!
+{32019}{32080}¿Qué pasó?
+{32081}{32130}¿Quieres que te prepare algo para cenar?
+{32131}{32184}Mira lo que te traje.
+{32221}{32264}Estupendo.
+{32265}{32342}no_mames buey.|¿En serio?
+{32343}{32374}¿Te lates?
+{32406}{32461}Fue algo muy cabron.
+{33057}{33121}No grites, vas a despertar al bebé.
+{33122}{33154}Espérame.
+{33236}{33281}¿Pelón?
+{33311}{33368}- No lo despiertes.|- ¿por_qué no?
+{33393}{33440}Me costó mucho| hacerlo dormir.
+{33441}{33507}Pero nunca lo veo,|¿verdad, Pelón?
+{33508}{33565}Estuvo vomitando todo el día.
+{33565}{33601}está enfermo.
+{33626}{33676}Pinche egoísta.
+{33677}{33765}Cierra el hocico. Te di el Walkman, pendeja.
+{33766}{33872}Soy bueno contigo, pero siempre me estás chingando, puta_madre. 
+{33873}{33896}El niño, carajo.
+{33897}{33932}Cállate.
+{34580}{34675}cabron...|es la vieja de tu hermano.
+{34705}{34763}Sí, pero siempre me gustó,
+{34764}{34816}desde antes que se conocieran.
+{34817}{34888}Pero él la consiguió primero, hijo. 
+{34889}{34923}Ni madres.
+{34924}{34975}A Ramiro no le importa, buey.
+{34976}{35093}Pero a Susana sí. Peleas con fuego, viejo.
+{35093}{35147}No puedo dejar de pensar en ella.
+{35148}{35246}Hay miles de mujeres.|¿por_qué quieres cogértela?
+{35247}{35294}No quiero cogérmela, buey.
+{35295}{35356}Quiero que se vaya conmigo.
+{35357}{35439}¿Sí?|¿Con qué dinero?
+{35537}{35583}¿A poco lo vas a pelear?
+{35609}{35678}¿Adónde conseguimos el dinero para apostar?
+{35737}{35801}- Voy a ser fiolo de tu hermana.|- Pendejo.
+{36531}{36573}¿Quién?
+{36574}{36631}Llamado para Susana.
+{36632}{36670}¿Quién hablar?
+{36671}{36734}Su mamá.
+{36735}{36790}Dile que nos estamos chingando
+{36791}{36851}Dice que es urgente.
+{37094}{37122}¿Bueno?
+{37243}{37287}¿Quién me habló?
+{37363}{37401}Yo.
+{37402}{37460}Estás loco, cabron.
+{37529}{37624}¿Qué pasa contigo, buey?
+{37625}{37704}Suéltame. Suéltame.
+{37829}{37878}No, Octavio.
+{37954}{38004}Así, no.
+{38077}{38141}¿Entonces cómo?
+{38284}{38354}Este perro se ve muy triste.
+{38355}{38417}Pero mató al perro del Jarocho.
+{38418}{38484}¿Conoces este negocio?
+{38485}{38532}Pues, más o menos.
+{38533}{38583}¿Más o menos?
+{38629}{38672}- ¿Sargento?|- Sí, señor.
+{38673}{38755}Sargento, llévate al perro por atrás. Vente conmigo.
+{38921}{38997}Este es mi negocio. No pago impuestos,
+{38998}{39057}no hay huelgas, ni sindicatos.
+{39081}{39133}Puro efectivo limpio. 
+{39134}{39214}Cada tanto tengo una pérdida.
+{39242}{39320}Este es el Mac, mi mejor business. 
+{39321}{39397}Es viejo, pero aún puede pelear.
+{39398}{39468}Compré la camioneta con sus ganancias.
+{39469}{39529}Podemos ser socios,
+{39530}{39619}con tu perro, y mi lana para apostar.
+{39620}{39689}Vamos michi_michi. 
+{39689}{39744}¿Qué te parece?
+{39745}{39808}- Pues va.|- Sale carnal. 
+{39809}{39901}Bien por ocho peleas, luego veremos.
+{39902}{39932}órale.
+{39933}{40003}Pero primero, tu perro hace una ronda con Mac
+{40085}{40191}Pues ya vas. Te vas a costar|5,000 pesos, gane o pierda.
+{40364}{40456}Maestro, no digas pendejadas. 
+{40457}{40512}¿ Y si tu perro mata al mío?
+{40513}{40560}¿Y si muere el mío?
+{40561}{40624}Pero yo aún no tengo camioneta.
+{40708}{40789}Te daré 2,500.|¿Te pasa?
+{40825}{40855}Va.
+{41070}{41149}Condón. Trae a Mac
+{41221}{41278}Aquí tienes tu parte. Chinga tu madre. 
+{41422}{41488}Suéltenlos a las tres. Cuenta.
+{41489}{41534}Uno...
+{41562}{41608}dos...
+{41609}{41632}tres.
+{41845}{41897}Suficiente.
+{41898}{41946}Quita tu pinche perro.
+{41947}{41977}Sargento.
+{42044}{42088}Dale la vuelta esta sábado a las 12:00.
+{42089}{42174}Vamos a dar el revenge| para Jarocho.
+{42444}{42496}- 20 vueltos.|- Gracias.
+{42549}{42612}¿Encontró todo lo que buscaba?
+{42613}{42673}Solo faltaron los condones.
+{42688}{42744}Es que no encontré mi talla.
+{42745}{42779}¿Qué chingados haces aquí?
+{42780}{42816}Comprando, buey.
+{42817}{42860}¿Dónde sacaste el dinero, cabron?
+{42861}{42902}Si tú no tienes, yo sí.
+{42903}{43004}Mételo en el culo, buey, porque las cosas de mi familia lo yo pago, buey.
+{43005}{43062}Cóbrame, |o llamo al gerente.
+{43098}{43179}Pendejo,| vete o estás muerto.
+{43180}{43290}No soy como Susana, cabron. No me asustas.
+{43465}{43533}- ¿Qué pasó?|- Nada, nada.
+{43533}{43582}puta_madre.
+{43641}{43677}Buenas tardes.
+{43997}{44070}- Tómalo.|- ¿Para?
+{44071}{44122}Para que puedas cuidarlo a él.
+{44159}{44190}Y a él.
+{44698}{44733}¿Sí?
+{44733}{44796}Qué pasó, hermano,|¿cómo estás?
+{44797}{44891}Muy bien. No, no mucho crees.
+{44892}{44970}Me espera un momento.
+{44971}{45019}No puedo oírlo.
+{45020}{45083}Yo tampoco.|¿Mejor salte, no?
+{45324}{45362}¿Qué pasó?
+{45405}{45499}No pude escaparme. Mañana, sí seguro.
+{45500}{45556}Yo también te extraño mucho.
+{45612}{45725}Ya no me llames aquí, Julieta sospecha.
+{45726}{45820}No, no estoy enojado.
+{45845}{45900}Mañana a las 11:00.
+{45901}{45946}Te amo.
+{46588}{46636}¿Qué pedo?
+{46637}{46690}Basta. Ya, buey.
+{46805}{46869}No te metas |en mis cosas, pendejo.
+{47510}{47566}órale, amigo. Llégale. 
+{47613}{47684}- ¿Qué pasa, gordo?|- Aquí no más, Jarocho.
+{47685}{47728}¿Desde cuándo entras con niñitas?
+{47729}{47773}Desde que tienen perros chingones. 
+{47774}{47832}Pues este es chingon? ¿por_qué no entras con 15?
+{47833}{47882}Mi perro está más chingon que cualquier de los tuyos.
+{47883}{47939}Le hablo al dueño del circo, |reinito.
+{47964}{47991}Entonces...
+{47992}{48044}- ¿15?|- Que sean 10.
+{48045}{48083}órale, pues. 
+{48108}{48163}Hagan sus apuestas, señores.
+{48433}{48484}Destrúyelo.
+{48612}{48652}Mátalo.
+{48803}{48847}¿Listo?
+{48944}{48976}Suéltenlos.
+{50183}{50257}Yo los alcanzaré.
+{50703}{50753}¿Qué haces aquí?
+{50754}{50803}Doy una vuelta. 
+{50804}{50880}Pasea por otro lado.
+{50881}{50956}No vengas a joder,| y mucho menos a ella.
+{50957}{51025}Lo que haga, es una bronca mía.
+{51081}{51184}Para ella, estás muerto. Que no se olvide.
+{51185}{51248}Qué agresiva, cuñadita.
+{51581}{51628}Debes dos, reinito. 
+{51629}{51728}No te ardas, Jarochito.| Se gana, se pierde.
+{52335}{52373}¿Qué pasó?
+{52418}{52456}Ten.
+{52457}{52498}Es nuestro.
+{52499}{52569}Pero ocúltalo, o mi hermano| se los chingan. 
+{52569}{52605}No te preocupes.
+{52606}{52656}¿Tienes otro lugar| donde ponerlos?
+{52657}{52768}Sí, el otro dinero que me diste está en el neceser en el closet.
+{52850}{52897}El bebé está dormido.
+{52977}{53044}Esta caja va a ser nuestro banco,|¿okay?
+{53076}{53123}Tuyo y mío y nada más.
+{53124}{53174}Octavio,|¿tú también está robando?
+{53224}{53305}Este dinero es bueno, que te vengas conmigo.
+{53306}{53356}¿Ir me contigo?
+{53513}{53573}Que no te des cuenta?
+{53574}{53641}No, tú no te des cuente.
+{53642}{53723}Jorge tiene unos primos en Ciudad Juárez y ya me dijo que podemos llegaré con ellos. Ponemos un changarro de lo que sea.   
+{53724}{53810}Ponemos un changarro de lo que sea, pues, tenemos lana. 
+{53811}{53847}Lo va a ir a_toda_madre. 
+{53906}{53985}No, no quiero tener más broncas.|¿Me entiendes?
+{54217}{54264}¿Me entiendes?
+{54383}{54437}Vente conmigo.
+{57431}{57482}No te doy permiso para entrar.
+{57483}{57538}¿Qué estás viendo?
+{57563}{57605}Te vale, buey.
+{57606}{57680}Cámbiale no?|Este programa no me gusta.
+{57714}{57738}¿Qué quieres?
+{57739}{57808}Supe que te haces rico con mi perro.
+{57809}{57850}Tu auto es chido, buey.
+{57851}{57950}¿Tu perro?|Es mío.
+{57951}{58012}Cómo dices pendejadas, |hermanito.
+{58013}{58101}Es tan mío como tuyo, así que recibo la mitad de las ganancias.
+{58102}{58185}Como sea, míralo.
+{58185}{58255}No parece que te ocupas mucho de él.
+{58256}{58317}Me importa más que lo crees, pendejo.
+{58318}{58397}¿Darte dinero?|No te doy un carajo.
+{58398}{58442}Es tan sencillo, buey. Si no me pagas una cuarta, 
+{58476}{58605}te voy a borrar tu cochinita de la oro.
+{58680}{58739}La próxima vez será verdad,
+{58740}{58810}así que mejor me das mi lana.
+{59801}{59864}"El gallo canta..."
+{59918}{60010}Qué onda?¿Qué pasó, pinche pelón?|Mira lo que te traje.
+{60185}{60276}Mira todo esto. Tu mamá lo va a guardar.
+{60350}{60399}Somos millonarios.
+{60400}{60476}Tenemos suficiente para vivir dos años.
+{60477}{60532}Vívelos conmigo.
+{60533}{60582}¿Qué me dices?
+{60624}{60707}- ¿por_qué, Octavio?|- ¿por_qué qué?
+{60709}{60758}¿por_qué quieres| vivirlos conmigo?
+{60920}{60982}¿Sigues sin darte cuenta?
+{60983}{61050}No, sí me da cuenta.
+{63169}{63213}Oy Champiñon, dale lunch |a Jorge.
+{63308}{63364}Bueno pues. Te tengo un business.
+{63365}{63422}Jarocho tiene un perro muy chingon.
+{63423}{63458}Quiere pelear al Cofi.
+{63459}{63519}Sí, claro.
+{63520}{63629}- Apostará 40,000.|- ¿40?
+{63630}{63658}¿Y que lo vamos a entrar?
+{63659}{63721}Es mucho dinero para mí.
+{63752}{63860}- Si tú quieres, vas sólo con él.|- ¿Qué pasa con lo que quedamos buey?
+{63861}{63936}El trato fue por ocho peleas. Yo entré a 15.
+{63937}{64043}Es suficiente. Tú hiciste tu lana, y hice la mía, okay?
+{64045}{64086}órale.
+{64087}{64129}¿Cuándo quiere la tope?
+{64181}{64228}Este sábado.
+{64229}{64321}La quiere privada, en lo de Trujillo, sin apuestas por afuera,
+{64322}{64381}sólo tú y él.
+{64405}{64444}Está bien.
+{64485}{64516}¿La reglo?
+{64517}{64555}Va.
+{64622}{64677}Oye, gordo,
+{64678}{64756}necesito que me hagas un favorzote.
+{68077}{68119}¿Cómo está el bebé?
+{68120}{68205}Bien. Creciendo, me imagino.
+{68206}{68247}¿Cómo le vas a poner?
+{68305}{68399}Si es niña, Susana.
+{68401}{68478}¿Y si es niño?
+{68503}{68544}¿Octavio?
+{68793}{68864}Ya tengo todo listo. Nos vamos el domingo.
+{68897}{68965}Pero voy a necesitar un poco de dinero.
+{69000}{69069}El sábado voy por la grande.
+{69093}{69205}Ya no lo peleas. Lo que tenemos nos alcanza.
+{69206}{69256}Es la última, verdad chamaco?
+{69395}{69462}¿A qué hora compras los boletos para la Ciudad Juárez?
+{69506}{69556}él comienza a las 12:00.
+{69557}{69624}Ramiro estará trabajando.
+{69698}{69755}No te preocupes por Ramiro.
+{69812}{69885}Ya no mete con nosotros,| okay?
+{70069}{70107}¿Tienes miedo?
+{70151}{70200}Sí es algo cabron.
+{70259}{70303}¿Estás asustada?
+{70761}{70788}¿Má?
+{70955}{71025}¿Así es como cuidas al niño?
+{71311}{71376}¿Qué pasa?
+{71377}{71436}Ahora puedes seguir bebiendo.
+{72133}{72169}¿Qué pasó, má?
+{72169}{72226}¿Sabes qué le pasó a tu hermano?
+{72227}{72290}Anoche no vino a dormir.
+{72291}{72334}Ni idea.
+{72362}{72399}¿No sabes?
+{72431}{72479}Llegó todo golpeado.
+{72481}{72563}Debe haber enojado a un cliente.
+{72615}{72679}Amenazaron con matarlo.
+{72680}{72739}Dios sabrá en qué anda.
+{72801}{72875}Se fue con el bebé y Susana.
+{72964}{72993}¿Adónde?
+{72994}{73035}No sé adónde,
+{73036}{73109}ni si volverán.
+{73177}{73215}¿Qué?
+{73600}{73663}puta_madre.
+{73732}{73815}hijo_de_puta.| Y esa pinche perra.
+{74743}{74880}Hoy con nosotros, alguien que ningún hombre querrá perderse...
+{74881}{74996}una de las mujeres más hermosas en Iberoamérica,
+{74997}{75059}Valeria Amaya.
+{75116}{75153}Muchas gracias.
+{75259}{75315}Tengo que encontrarla,| cabron.
+{75316}{75403}Te lo hizo gacha. Te lo advertí.
+{75404}{75472}Ella no fue pendejo| Fue Ramiro, ese cabron.
+{75580}{75654}Este es tu año de éxito, verdad?.
+{75655}{75722}Representas a "Enchant"|en Latinoamérica,
+{75723}{75769}muchas modelos| te envidian...
+{75797}{75864}La encontraré.
+{75865}{75909}¿Cuánto tienes?
+{75910}{75965}- 7.000, ¿y tú?|- 10.000.
+{75966}{76048}Espero que el Jarocho andar con esto. 
+{76049}{76118}Tengo 3.000 en casa, te los presto. órale. 
+{76161}{76251}Qué buena esa vieja, me cae. 
+{76252}{76304}¿Es verdad que tienes un nuevo amor?
+{76305}{76378}Sí, no es sólo un rumor.
+{76379}{76430}De hecho, está aquí.
+{76431}{76472}Mi amor.
+{76473}{76537}Andrés Salgado, nada menos.
+{76775}{76823}Por favor, toma asiento.
+{76867}{76939}Qué tipo afortunado.
+{77025}{77084}Vamos. Cofi.
+{77205}{77297}Bueno, una pregunta más personal.
+{77298}{77364}¿Piensa en casarse?
+{77365}{77468}Pues, por el momento no, pero ya tenemos un hijo...
+{77469}{77543}y está aquí.
+{77544}{77580}Richie.
+{77639}{77699}¿No es bonito?
+{77737}{77788}Se parece a Andrés.
+{77789}{77843}Tiene mis canas.
+{78185}{78266}¿Qué pasó, reinito?|¿No se echaron atrás?
+{78267}{78340}- Como puedes ver.|- ¿Qué onda? Conseguiste los cuarenta mil?
+{78381}{78456}- Sólo alcancé conseguir 20.000.|- ¿Está bien veinte?
+{78501}{78593}órale.| Va, las pinches dulcerías, cabron.
+{78633}{78696}Sargento, pon a los perros en la alberca.
+{78754}{78805}Listos.
+{78806}{78838}En sus marcas.
+{78954}{78977}Suéltenlos.
+{79439}{79471}Qué haces, cabron?
+{79504}{79543}Se acabó la pelea. no_mames, 
+{79544}{79609}Iba ganando.|¿por_qué disparaste?
+{79610}{79695}- Se me escapó, muñequita.|- ¿Qué es esta mierda?
+{79696}{79743}Esta bronca es entre ustedes, a mí no me metan. 
+{79745}{79807}Aquí está tu lana, y aquí está el tuyo.
+{79808}{79857}Mauricio, esto no se vale, hijo.
+{79858}{79903}Resuélvanlo entre Uds.
+{79904}{79990}No sean llorones, niñiquitas.| Así es el negocio.
+{79991}{80106}Mejor se van antes de que se calienten las cosas.
+{80140}{80232}Quéjate con tu hermanito Ramiro. Dile que le espero, cabron.
+{80669}{80739}- ¿Adónde vas?|- Arranca el auto y no cierres mi puerta. 
+{81088}{81158}¿Se te olvidas algo, reinito? Puto!
+{81849}{81892}¿Qué hiciste, cabron? Puta pero qué hiciste?
+{81910}{81958}- ¿Qué hiciste...?|- Nada, buey, nada. 
+{81959}{82002}¿Cómo que nada, cabron? Vámonos pendejo. 
+{82117}{82171}- ¿Se murió, carajo? Ya se murió.|- No.
+{82328}{82389}Estos pinches cabrones. Cómo te ocurrió meterte con ellos?
+{82521}{82564}Cabrones.
+{82897}{82980}Gracias a Valeria Amaya| y a Andrés Salgado
+{82981}{83035}por estar en el show.
+{83036}{83116}Amigos, quédense con nosotros para más sorpresas
+{83117}{83164}en "Gente de Hoy."
+{83261}{83358}Valeria, yo pensaba que andas en otros amores.
+{83359}{83409}Pues ya ves que no. 
+{83410}{83535}- Tantos rumores.|- A la gente está chismosa. 
+{83536}{83592}- Laura, veinte segundos.|- Claro, adiós.
+{83628}{83702}- ¿Qué haces ahora?|- No sé, ¿por_qué?
+{83703}{83786}- Invito a comer.|- No, gracias, Andrés.
+{83844}{83959}¿Le vas a decir a mí Andrés Salgado, que no vas a poder comer conmigo?
+{83960}{84062}Mira, una cosa es una cosa. Y otra cosa es otra cosa.
+{84063}{84134}Pero mira es una sorpresa que te vas a encantar.
+{84211}{84280}Bueno, vale.
+{84413}{84481}- ¿Adónde vas?|- Al restaurante.
+{84482}{84564}Te dije que vamos a comer, no te dije que vamos al restaurante. Váyase.
+{84749}{84812}- Adelante.|- ¿Compraste la casa?
+{84813}{84895}- No exactamente.|- Es muy bonita.
+{84896}{84962}- ¿Te gusta?|- Por supuesto.
+{84963}{85059}Este sofá es idéntico a ll mía. 
+{85060}{85098}No, no es idéntico. 
+{85099}{85141}Es el de tu casa.
+{85142}{85208}Y si vas a la cámara, vas a encontrar tu ropa,
+{85209}{85256}tus perfumes...
+{85307}{85348}¿Oye, que haces, cabron?
+{85349}{85439}Eso no es todo. Mira más, que vista. 
+{85526}{85580}¿Te gusta?
+{85581}{85628}Te has pasado, tío. |Me voy.
+{85629}{85676}Espera.
+{85701}{85764}Toma las llaves de tu apartamento.
+{85765}{85820}¿Cómo mi apartamento?
+{85821}{85912}Que sí, tía. Tu apartamento!
+{85942}{85965}Idiotas.
+{85998}{86026}Mi amor. 
+{86087}{86132}¿Qué es este agujero?
+{86133}{86204}Me alcanzó para comprarlo,| pero no para arreglarlo.
+{86217}{86265}Bueno, suficiente.
+{86294}{86370}- Envidioso|- Gracias.
+{86371}{86418}Es la primera vez que te había visto actuar bien.
+{86419}{86470}Que lindo, eh?¿Te gustó?
+{86471}{86557}- Yo también te quiero.|- Perdóname, Andrés.
+{86558}{86607}Sólo bromeaba.
+{86608}{86647}Hasta luego. 
+{86648}{86682}Vaya.
+{86683}{86728}Gracias.
+{86729}{86813}Gracias por la tapa de la revista.
+{86814}{86850}Buena suerte, matador. Chau, órale. 
+{86937}{87003}Mi amor, ¿es verdad?
+{87042}{87092}- ¿Mi amor?|- ¿Qué?
+{87093}{87150}Hablé con Julieta.
+{87151}{87208}¿Y?
+{87209}{87366}- Aparte de hoy, estamos separados.|- ¿No me mientes?
+{87367}{87431}Desde esta noche, dormimos juntos.
+{87432}{87489}¿Estás seguro?
+{87490}{87559}Sí.|¿Tú cambiaste de idea?
+{87560}{87610}No puedo creerlo.
+{88421}{88476}- ¿Mi amor?|- ¿Sí?
+{88477}{88518}¿Con qué brindamos?
+{88568}{88675}Ah, sabía que |me olvidaba de algo.
+{88677}{88744}Por favor, vigila la comida.
+{88745}{88805}Sabes que hasta un huevo| se me quema.
+{88806}{88857}Eres mi invitada especial.
+{88858}{88910}¿Invitada en mi propia casa?
+{88971}{89030}Tú eres la invitada. No te vayas. 
+{89031}{89057}Mi amor...
+{89058}{89122}Richie.
+{89123}{89192}- Ven aquí, bonito.|- Vuelve pronto. No me tarda nada. 
+{89193}{89235}Claro que sí.
+{90026}{90111}Richie. Cállate.|¿Qué te pasa?
+{91222}{91284}Discúlpanos.
+{91285}{91317}¿Cómo está?
+{91318}{91384}Es difícil hacer un diagnóstico ahora. 
+{91385}{91456}pérdida de sangre masiva,
+{91457}{91506}doble fracturada tibia y peroné,
+{91507}{91588}fractura expuesta de fémur...
+{91589}{91695}el bíceps femoral está casi completamente cortado.
+{91697}{91779}- Es un milagro que esté viva.|- ¿Pero va a salir bien?
+{91781}{91882}- Eso espero que sí.|- ¿Cuándo puedo verla?
+{91883}{92007}No lo sé... pasado mañana, dependiendo de cómo se recupere.
+{92032}{92095}¿Hay algún pariente al que deba avisarle?
+{92096}{92181}Su familia vive en España. No creo que puedo avisarles.
+{92207}{92264}¿Tú asumes| la responsabilidad?
+{92340}{92427}- Gracias, Nacho.|- Ay, de qué?. Saludos a Julieta.
+{92428}{92499}Perdón, es la costumbre.
+{92501}{92542}Besos a las niñas.
+{92543}{92580}No hay problema.
+{92720}{92786}Una, dos, tres.
+{92912}{92967}No la canse.
+{93093}{93161}No voy a poder jugar al fútbol.
+{93211}{93288}Tranquila, tranquila. 
+{93320}{93364}¿Y Richie?
+{93365}{93420}está bien, en la casa.
+{93421}{93466}En nuestra casa...
+{93541}{93598}Nuestra casa...
+{93648}{93704}Daniel...
+{93705}{93758}No vas a avisar a mi padre. 
+{93759}{93848}- ¿No es tiempo de que le hables?|- No quiero.
+{93849}{93909}Diría que me lo merezco.
+{93960}{94023}Está bien, mi amor. |Tranquilo. 
+{94073}{94208}Duerme... duerme. Yo estoy contigo.
+{94314}{94370}¿Daniel?
+{94371}{94425}¿Estás despierto?
+{94450}{94488}¿Qué pasó?
+{94489}{94557}Daniel, tengo mucho miedo.
+{94582}{94616}Mírame.
+{94617}{94708}No te preocupes, ya te lo quitarán.
+{94709}{94776}Has sido muy valiente.
+{94825}{94885}La verdad es...
+{94886}{94962}que me muero de miedo.
+{94963}{95050}Todo va a salir bien, vas a ver, mi amor.
+{95257}{95319}Richie, mira. Mira quién llegó.
+{95320}{95396}- Ha llegado tu madre.|- Richie.
+{95421}{95524}Te extrañé, chiquito.
+{95590}{95656}¿Qué hiciste sin mí?
+{95737}{95789}Mi amor.
+{95790}{95850}Bienvenida a casa, mi amor.
+{95953}{96016}El primero que pestañea, pierde, ¿eh?
+{96476}{96542}Perdiste, perdiste.
+{96758}{96807}¿Qué haces? Padre, ya. 
+{96808}{96860}Te examino.
+{96861}{96963}- No puedo.|- Sí puedes. 
+{96964}{97011}No puedo.
+{97012}{97058}Sí puedes.
+{97094}{97146}A ver, cómo lo haces.
+{97309}{97402}¿Seguro que vas a estar bien?
+{97403}{97467}Mira mi amor, soy una experta.
+{97468}{97544}Izquierda... derecha...
+{97572}{97616}¿Y si necesitas algo?
+{97617}{97698}Tengo a Richie, ¿no? No pasa nada. 
+{97754}{97860}Haz lo que quieras, pero sentada.
+{97861}{97932}- ¿ Y si hay un terremoto?|- Que se caiga todo esta madre
+{97933}{97986}pero no dejes esa silla.
+{98011}{98070}- Llego más tarde a las 8:00.|- Aquí estaré.
+{98071}{98136}- Buena suerte.|- Te extrañaré. 
+{101181}{101233}Chau, vale. 
+{101234}{101301}Bien.| Tráemela.
+{101437}{101517}Bien, Richie.| Buen bonito.
+{101518}{101548}Tráeme la pelota.
+{101666}{101745}Corre, corre. No, Richie.
+{101781}{101868}Mierda. Richie.
+{101869}{101916}Richie, buen niño.
+{101982}{102007}¿Richie, bonito?
+{102044}{102086}Richie.
+{102137}{102180}Está mami aquí.
+{102205}{102239}Richie.
+{102397}{102440}Ya llegué, flaquita!
+{102473}{102523}Estoy en la cocina.
+{102525}{102558}¿Cómo te fue, mi amor?
+{102559}{102643}Te las manda el doctor, así no tengo que cargarte.
+{102683}{102738}¿Cómo está mi princesa?
+{102739}{102799}Richie se metió al hoyo.
+{102800}{102830}¿Cómo que en el hoyo?
+{102831}{102896}Corriendo detrás de la pelota y se metió allí.
+{102897}{102941}No te preocupes ya saldrá. 
+{102942}{102989}Eso fue hace cinco horas.
+{103066}{103144}¿Qué podemos hacer?
+{103194}{103244}- Ya sé.|- ¿Qué haces?
+{103245}{103298}Chocolates.
+{103299}{103383}Enseguida saldrá.
+{103384}{103438}Espera, voy contigo.
+{103439}{103547}Toma, prueba las muletitas.
+{103549}{103602}¿por_qué no sale?
+{103603}{103672}Debe estar atascado.
+{103673}{103764}No te preocupes, pon esto. Vas a salir. 
+{103765}{103801}¿Richie?
+{103828}{103860}Ya lo intenté.
+{103861}{103927}Oigo ruidos, pero no sale.
+{103960}{104038}No te preocupes, ya saldrá.
+{104039}{104104}¿Te preparo un omelette, mi chiquita?|Tengo hambre.
+{104145}{104226}Richie está bien, un poco perdido, pero está aquí,
+{104227}{104330}ni lo robaron, no está en la calle está aquí con nosotros, ¿okay?
+{104546}{104579}¿Daniel...?
+{104604}{104651}- ¿Daniel?|- ¿Qué pasó?
+{104652}{104696}Escucha, es Richie.
+{104959}{105008}Sí, es él.
+{105062}{105114}- ¿ Qué hacemos?|- Espérame.
+{105216}{105299}¿Richie?
+{105553}{105600}¿Richie?
+{105630}{105665}- ¿Richie?|- ¿Daniel?
+{105666}{105741}- ¿Qué?|- Corre, creo que lo oí.
+{105812}{105863}- ¿Dónde está?|- Ayúdame.
+{105888}{105923}Cuidado.
+{106044}{106112}Mierda, creo que está debajo de la sala.
+{106113}{106195}Richie, corazón...
+{106424}{106471}¿Richie?
+{106666}{106770}Ay, coño!|Qué susto, su tía. 
+{106867}{106903}Bueno?
+{106948}{106975}Bueno?
+{107041}{107135}- ¿Quién era?|- No lo sé, colgaron.
+{107209}{107233}¿Richie?
+{107679}{107724}Manuel, cabron. 
+{107725}{107818}- Ya sabes, trabajando, como siempre. ¿Cómo estás?
+{107819}{107907}- Mejorando poco a poco.|- Con tranquilidad, ¿eh?
+{107908}{107981}En un mes, si todo sale bien, podremos volver 
+{107982}{108034}a la campaña de Enchant.
+{108035}{108098}¿Enchant?|Definitivamente olvídalo de eso. 
+{108099}{108127}¿Qué quieres decir?
+{108128}{108202}Escucha, el contrato con Enchant se acabó.
+{108230}{108280}- ¿Lo cancelaron?|- ¿Qué esperabas?
+{108281}{108350}Te contrataron cuando estabas bien.
+{108351}{108404}Sé realista, Valeria. No estás bien, cariño.
+{108405}{108461}Cuando estés como antes,
+{108462}{108543}llamaremos a Enchant |y estaremos bien...
+{109097}{109133}Richie.
+{109165}{109204}¿Richie?
+{109204}{109279}Oye, Richie.| Mierda. A
+{109491}{109538}Ay, su madre. 
+{109604}{109664}Muérete, Richie.
+{109826}{109861}Richie.
+{109892}{109941}Richie.
+{109942}{110012}¿Corazón mío?|¿Richie?
+{110020}{110047}¿Richie?
+{110305}{110365}El título va más arriba la cabeza,
+{110366}{110415}y la foto un poco más a la izquierda.
+{110446}{110478}¿Así?
+{110479}{110505}Un poquito más.
+{110506}{110576}¿O subes la foto y baja el texto?
+{110577}{110633}No creo cabron. Eso rompe la armonía.
+{110661}{110719}Sr. Estrada, tiene una llamada. 
+{110720}{110789}Di que llamaré luego.
+{110790}{110833}Me parece que es urgente.
+{110834}{110876}Creo que es su esposa.
+{110877}{110920}Perdón. 
+{111044}{111106}Julieta, ¿qué pasó?
+{111107}{111142}Julieta, contesta.
+{111143}{111191}No soy Julieta.
+{111193}{111273}Mi amor. Perdón, mi secretaria...
+{111274}{111323}¿Qué tienes que decirle a Julieta?
+{111324}{111409}- No tengo que hablar con ella. Fue un error.|- ¿Para qué?
+{111410}{111488}- Te repito, para nada.|- ¿Entonces?
+{111489}{111557}Esta no eres tú.|¿Qué sucede?
+{111646}{111721}¿Valeria?|¿Mi amor?
+{111747}{111803}Las ratas se comieron a Richie.
+{111844}{111880}¿Cuáles ratas?
+{111931}{111975}¿Qué pasó, amor?
+{112049}{112098}Hay miles de ratas allá abajo.
+{112160}{112199}¿Cómo sabes?
+{112200}{112283}Las vi, segura que se comieron a Richie.
+{112284}{112340}No te preocupes.
+{112368}{112476}Las ratas no comen perros. Los perros no se dejan. Las muerden.
+{112477}{112536}Pero es que son miles. 
+{112593}{112668}Bueno, podemos poner raticida.
+{112669}{112724}Richie se lo comería.
+{112764}{112820}Podemos poner allí |un gato.
+{112821}{112876}El gato se pelearía con Richie.
+{112876}{112930}¿Y qué demonios quieres?
+{113165}{113224}Perdóname, mi amor| perdóname. 
+{113297}{113404}- Todo va a salir muy bien.|- Tú no está como yo. 
+{113405}{113514}Mira mi pierna, estará cubierta de cicatrices.
+{113515}{113569}La cirugía plástica ha avanzado mucho.
+{113570}{113628}Ni verás las cicatrices...
+{113629}{113681}No me toques, coño. 
+{113941}{114009}Es Richie.
+{114010}{114055}Richie.
+{114093}{114139}- Richie.|- Te oyó gritar.
+{114140}{114163}Richie.
+{114165}{114209}Es él.
+{114210}{114246}Richie.
+{114382}{114442}- Lo sé.|- ¿Adónde vas?
+{114484}{114510}Richie.
+{114511}{114583}Si lo hago un hoyo más grande, va a salir.
+{114584}{114640}Se salen todas las ratas.
+{114641}{114676}Antes no lo hicieron,
+{114677}{114744}no sé por_qué lo va a salir ahora.
+{114745}{114816}Haz el hoyo |lo más grande que puedas.
+{114848}{114914}Mierda. Richie.
+{115013}{115036}Diga?
+{115036}{115119}¿Dígame?
+{115121}{115176}Chinga tu madre!
+{115284}{115345}¿Quién era, Daniel?
+{115346}{115388}No tengo la menor idea. 
+{115439}{115487}Cuando solía llamarte, |siempre sabías que era yo.
+{115489}{115538}¿Quién llamó?
+{115539}{115613}Ya te dije que no sé, okay?
+{116360}{116421}Valeria,|¿qué tienes, mi amor?
+{116422}{116504}Mi pierna me duele mucho.
+{116504}{116592}- No lo soporto.|- Si quieres ahora iremos al hospital.
+{116593}{116666}No, ya hablé con el médico.
+{116667}{116756}Dijo que era normal que me duele de vez en cuando.
+{116757}{116834}Pero se siente como si fuera a reventar.
+{116862}{116920}¿Te mandó algún medicina?
+{116921}{117011}Analgésicos y un antiinflamatorio.
+{117037}{117109}¿Qué puedo hacer?
+{117110}{117156}Abrázame.
+{119217}{119268}Te voy a apretar un poco.
+{119447}{119517}- ¿Caminaste?|- Un poco.
+{119870}{119910}¿Tienes las radiografías?
+{120176}{120266}Bien...|puedes vestirte, Valeria.
+{120292}{120352}Margarita, ayúdale por favor.
+{120353}{120398}Ven, aquí no cabemos.
+{120549}{120639}¿Quieres pedir comida, o alquilar una película?
+{120640}{120716}No estoy de humor. Me siento terrible.
+{120717}{120776}No te preocupes. Todo va a salir bien. 
+{120776}{120862}Tu puta_madre.|¿Sabes decir otra cosa, joder?
+{121270}{121359}¿Daniel, Daniel?
+{121360}{121406}Es Richie.
+{121407}{121453}está llorando, óyela.
+{121490}{121538}Escucha, es él.
+{121562}{121652}- Sácalo.|- ¿Cómo?
+{121653}{121701}Levanta el piso carajo pero sácalo.
+{121702}{121796}No puedo hacerlo.| No tengo el dinero para arreglarlo.
+{121797}{121844}Qué demonios importa el dinero, coño!
+{121845}{121902}A mí me importa mucho más que imaginas.
+{121903}{121956}- Sácalo, carajo.|- Puede salir solo.
+{121956}{122038}Maricón de mierda.| Siempre has sido un egoísta.
+{122039}{122094}Dejé todo por ti.
+{122095}{122187}Sí, tu mujer porque es una pendeja| y a tus hijas porque ellas son estúpidas.
+{122188}{122232}Cállate, pendeja, o te voy a partir la madre.
+{122233}{122324}- Eres una mierda.|- Muérete.
+{122325}{122440}- Tú y ese puto perro.|- Pendejo de mierda muérete.
+{122440}{122494}Muérete, joder puto. 
+{122495}{122542}Coño!
+{123535}{123600}Me voy. Regreso como las dos. 
+{123601}{123661}Por mí no vuelvas nunca.
+{124460}{124493}¿Bueno?
+{124662}{124701}¿Daniel?
+{124806}{124849}¿Gordo?
+{124903}{124951}¿Gordo?
+{125573}{125636}Valeria, abre la puerta.
+{125637}{125681}Abre, carajo.
+{125692}{125756}Valeria, abre.
+{125756}{125803}Abre, Valeria.
+{126699}{126756}Valeria, por favor.
+{126756}{126820}No tengo por_qué perdonarme
+{126821}{126876}pero está bien,| perdóname.
+{126876}{126935}¿Ya estuvo, no?
+{126966}{127043}Valeria, abres o abro. 
+{127084}{127163}A la cuenta de tres, voy a tirar esta puerta. 
+{127234}{127264}A la una...
+{127299}{127339}A las dos...
+{127376}{127429}A las dos y cuarto...
+{127460}{127504}A las dos y medio...
+{127531}{127612}A las dos y tres cuartos...
+{127613}{127639}Carajo.
+{127796}{127830}Valeria.
+{127831}{127873}¿Qué te pasó, mi amor?
+{127874}{127912}Valeria.
+{128024}{128088}Valeria, no me hagas esto, por favor.
+{128128}{128232}Valeria, tenemos que...
+{128233}{128280}Valeria.
+{128771}{128805}¿Cómo está?
+{128806}{128940}Tuvo una trombosis arterial severa, que afectó los tejidos.
+{128941}{129072}Deberíamos haber intervenido antes. Hay mucho daño.
+{129100}{129161}La sangre no llegaba a los músculos.
+{129162}{129195}¿Y?
+{129196}{129292}Empezó un caso de gangrena avanzada...
+{129293}{129355}y tuve que amputarle| la pierna.
+{129452}{129496}Lo siento, Daniel.
+{130801}{130845}Richie.
+{131388}{131438}¿Richie?
+{131487}{131514}Richie. Mierda. 
+{135671}{135714}Bueno?
+{135715}{135740}Sí.
+{135786}{135841}Dile que a las 3:00.
+{135842}{135903}La otra cancela, okay?
+{135904}{135927}Bye.
+{135955}{136033}Cuando lleguemos a casa, apaga esa chingadera, eh?
+{136034}{136076}Odia esas madres.
+{136112}{136204}¿Para qué necesitamos llevar cuarenta tortas?
+{136205}{136271}Consigue a una cortesía para un amigo, entiendes?
+{136326}{136403}¿Seguro que su amigo va a hacer bien el trabajo?
+{136404}{136459}Ya te dije veinte veces que sí.
+{136518}{136600}¿Quién es este amigo suyo?|¿También es policía?
+{136600}{136668}No, estuvo encarcelado por veinte años.
+{136693}{136725}Qué hizo?
+{136726}{136762}Era guerrillero.
+{136763}{136823}¿Como los Zapatistas?
+{136848}{136948}ándale, sólo que era un verdadero hijo_de_puta.
+{136949}{137003}Puso una bomba en un centro comercial,
+{137004}{137047}secuestró a un empresario,
+{137048}{137083}asesinó a policías...
+{137084}{137123}Da vuelta aquí.
+{137124}{137219}Tenía todo la tropa detrás de él, las Brigadas Blancas.
+{137244}{137275}¿Sabes quién se lo chingó?
+{137276}{137346}- ¿Quién?|- Yo.
+{137392}{137445}Lo agarré meando| en un Sanborn.
+{137530}{137574}Lo puedes creer?
+{137575}{137615}Bueno?
+{137676}{137768}Deposita ese dinero en mi cuenta.
+{137817}{137886}Luego, yo lo transferiré. Adiós.
+{137984}{138038}Y cuando lleguemos, qué le digo?
+{138039}{138090}Nada.| Déjame hablar a mí.
+{138091}{138151}No le preguntes nada personal.
+{138152}{138177}¿Por?
+{138178}{138225}Le emputan.
+{138226}{138293}Ese cabron era un gente normal, como tú y yo.
+{138332}{138423}Pinche profesor universitario, y un día, madres, cabron.
+{138424}{138511}Abandonó a su vieja y su hija y se mete un guerrillero.
+{138512}{138578}- ¿Y su familia?|- ¿Qué van a hacer?
+{138579}{138615}Lo mandaron a la verga.
+{138616}{138659}Su vieja| se volvió a casar.
+{138660}{138714}Supongo que su hija| lo cree muerto.
+{138744}{138854}Cuando salió de la pinche carcel,| se lo votó la pinche cacique.  
+{138855}{138927}Cuando lo encontré, era un borracho, cabron.
+{138928}{138964}Me dio lastima. 
+{138989}{139055}Le di lana| y un lugar para vivir.
+{139056}{139127}Hasta nos hicimos amigos. Comenzó a hacer trabajos para mí.
+{139172}{139241}Trabajitos...|¿como éste?
+{139242}{139294}Sí, como éste.
+{139295}{139364}Yo contesto. .
+{139456}{139489}¿por_qué hizo eso?
+{139490}{139527}Luego te comprarás otro.
+{139996}{140044}¿Qué tal, Chivito?
+{140044}{140158}¿Qué tal, Leonardo?|Qué onda?
+{140159}{140243}Te presento un amigo mío, Gustavo Garfias.
+{140279}{140329}Hola, brother.
+{140330}{140359}Mucho gusto.
+{140384}{140425}Trajimos esto. Es para ti.
+{140487}{140520}órale, cabron.
+{140571}{140623}Wepa!
+{140952}{141039}Sin chile, sin cebolla. Que chido.
+{141040}{141074}Gracias.
+{141144}{141181}Siéntate allí.
+{141297}{141379}Y sus lentes? Los perdiste?
+{141380}{141428}Dejé de usarlos.
+{141429}{141483}Si Dios quiere que vea borroso,
+{141484}{141532}veré borroso.
+{141628}{141706}Mi amigo Gustavo necesita un favor.
+{141707}{141758}La foto.
+{141839}{141903}Ya no hago eso.
+{141904}{141972}Te lo dije es la vez pasada.
+{141973}{142011}no_mames, chivito.
+{142012}{142087}¿De qué vas a vivir?|¿De la basura otra vez?
+{142088}{142140}La basura| da resultado, Leonardo. Me cae. 
+{142141}{142190}En serio.
+{142191}{142249}Mira, es un Citizen.
+{142250}{142332}Lo encontré en un bote. Esto también.
+{142332}{142464}No me digas chingaderas.| Lo robaste.
+{142465}{142517}No, lo encontré. 
+{142518}{142600}El comandante dice| que es muy bueno.
+{142703}{142761}¿Bueno para quién?
+{142762}{142850}Anda, tómalo. |no_mames.
+{142953}{142991}¿Quién es?
+{143080}{143131}Mi socio.
+{143132}{143170}¿Qué te hizo?
+{143171}{143241}Me está estafando.
+{143278}{143346}¿Cómo va a ser el negocio?
+{143347}{143428}Cincuenta mil ahora,| cincuenta mil después.
+{143466}{143563}Cien ahorita,| cincuenta después.
+{143589}{143624}Va?
+{143625}{143698}Sí está bien, pero sólo trae |cincuenta conmigo.
+{143848}{143932}- ¿Cómo se llama?|- Luis Miranda Solares.
+{143933}{143996}Vive en Sierra de Maika 1460.
+{143997}{144053}Su oficina está en la calle Montes Urales.
+{144096}{144141}Bien proletario, ¿verdad?
+{144338}{144367}Ah bueno pues.
+{144479}{144534}Haga que parezca un robo, okay?
+{144535}{144592}Sin gente, sin problemas...
+{144592}{144631}Claro, brother.
+{144632}{144719}Sin gente, sin broncas, sin nada. 
+{151731}{151796}Richie, vaya!|¿Qué te pasó?
+{152605}{152712}Ayúdenme, carajo.| La puerta está trabada.
+{152712}{152775}Tengo un machete |en mi carretilla.
+{152889}{152927}Llamen una ambulancia.
+{152992}{153031}Aguanta.
+{153147}{153189}Tranquilo, tranquilo.
+{153263}{153302}Córrete.
+{153303}{153363}- ¿Qué pasa?|- Tiene el pie atascado.
+{153404}{153432}Cálmate.
+{153471}{153538}Cálmate.| Cuidado con su pierna.
+{153568}{153605}Tranquilo, muchacho.
+{153766}{153812}¿Y el otro?
+{153924}{153967}Ya está muerto.
+{154068}{154121}Chingada, una ambulancia, carajo.
+{154420}{154471}Tranquilo,| ya la sacaremos.
+{154472}{154549}Abra la ventana.| Trate de abrirla.
+{154584}{154615}Ya llegaron.
+{154716}{154775}Quítense.| Déjenlo respirar.
+{154776}{154827}¿Me oyes? Me escuchas? 
+{154864}{154951}- La ventanita. Allí.|- Eso es, dele, dele. 
+{154952}{154976}Más baja.
+{155022}{155094}¿Cómo te llamas?|¿Me escuchas?
+{155095}{155167}La sacaremos.
+{155168}{155220}Tiene la pierna atascada.
+{155908}{155955}Tranquilo. Tranquilo.
+{156462}{156525}Aguanta, campeón.
+{156711}{156762}¿Qué te hicieron, carajo?
+{156804}{156890}Aguanta, muchacho.
+{156891}{156966}Bien, que valiente.
+{156967}{157019}Eso es, campeón.
+{157064}{157106}Listo, chiquito.
+{159188}{159282}- ¿Qué chingado haces?|- Qué chingados pues poniendo mi máscara.
+{159284}{159366}Pendejo.
+{159367}{159409}Robar los bancos así sin nada.
+{159410}{159471}¿Qué?|¿Con mi cara de pendejo?
+{159472}{159516}Tú decides.
+{159675}{159734}Al suelo,| putas_madres.
+{159736}{159780}Esto es un asalto. Culeros!
+{159781}{159828}Un asalto,| cabrones.
+{159829}{159894}Todos al suelo, cabrones. 
+{159944}{159977}¿Qué estás mirando?
+{159978}{160020}Ahora mismo.
+{160021}{160087}Al piso.
+{160088}{160148}Tú también. Te estoy hablando.
+{160149}{160224}- Sácala cartera, buey.|- Sacarla tú. 
+{160225}{160291}No me mires. Pendejo. 
+{160292}{160335}Al piso.
+{160572}{160671}No te muevas, cabron. Y el arma.
+{160672}{160707}Al suelo.
+{161027}{161105}Tranquilo...
+{161516}{161558}Déjenlo en paz.
+{161664}{161696}Lobo, por allá.
+{161697}{161755}Buen chico. Muy bien, muchacho. 
+{162039}{162085}Ya está curado.
+{163180}{163231}¿Qué te trae aquí, Leo?
+{163232}{163283}Sólo pasaba.
+{163315}{163400}Te tardaste, no?|Ya pasó una semana.
+{163401}{163432}No está fácil.
+{163433}{163483}Nunca es fácil,|¿ verdad?
+{163484}{163613}Dile a tu pate que se quede tranquilo. Estará hecho en dos días.
+{163614}{163745}Vale, Chivo. Tu palabra, cabron?|Tengo que ir al banco.
+{167756}{167815}Yo cuidé su auto.
+{167816}{167850}Claro...
+{167851}{167942}Yo estaba apoyado en el auto.
+{167943}{168001}No, se fue a jugar al fútbol.
+{168034}{168080}Para los dos.
+{168727}{168783}Mis condolencias, Doña Concha.
+{169241}{169295}¿Cómo sigues?
+{169363}{169419}Mal pero mejor.
+{169500}{169551}¿por_qué te fuiste?
+{169585}{169647}Ahora no es momento de hablarlo.
+{169716}{169761}¿Entonces cuándo?
+{170458}{170522}Ramiro era mi esposo,|¿ no?
+{170523}{170579}¿Y qué de nuestros planes?
+{170580}{170628}Tus planes.
+{170629}{170687}Mi abuela solía decir,
+{170688}{170801}"Para hacer reír a Dios,| cuéntale tus planes."
+{170802}{170902}- Me engañaste, Susana.|- No, Octavio.
+{170903}{170962}Nosotros éramos| los que engañábamos.
+{170964}{171017}Pero ya no.
+{171050}{171103}Vente conmigo.
+{171104}{171163}A_poca_madre. 
+{171164}{171250}¿Cómo puedes preguntarme eso tras todo ha pasado?
+{171325}{171413}- Aún no lo entiendes.|- Claro que sí.
+{171414}{171525}Dios puede reírse, |pero yo voy a seguir con mis planes.
+{171556}{171613}El domingo a las 11:00|viajo a Ciudad Juárez.
+{171614}{171704}Ya te volviste loco.| Mírate.
+{171705}{171747}Ni madres. 
+{171807}{171855}Ahora lo sabes todo.
+{171896}{171954}Te esperaré.
+{172027}{172111}Decide tú| si quieres venir.
+{172112}{172160}¿Ahora, si me entiendes?
+{172196}{172258}Ramiro...
+{172259}{172336}el bebé |se llamará Ramiro.
+{172811}{172870}Ya estás bien. 
+{173102}{173139}¿Qué te pasó?
+{173824}{173863}¿Flor?
+{173968}{174009}No te me hagas eso.
+{174010}{174075}Contéstame, chula, por favor. 
+{174189}{174236}¿Frijol?
+{174957}{175016}Eso no se hace,| cabron.
+{175540}{175618}¿Gringuita?|¿Chula?
+{175748}{175794}Aguanta. Aguanta.
+{180642}{180696}Mira adelante.
+{180728}{180771}No me veas, buey.
+{180772}{180851}Abre la puerta, esto lado. No vas a hacer ninguna pendejada. 
+{180852}{180932}- No te des vuelta.|- Tranquilo.
+{181032}{181080}Muévete.
+{181163}{181207}Espósate |la mano izquierda.
+{181234}{181314}Y la otra pon en el volante.
+{181315}{181411}Espósala al volante, idiota.
+{181466}{181509}Ahora, arranca.
+{181659}{181703}Vámonos.
+{181777}{181877}¿Qué es esto?|¿Robo o secuestro?
+{181878}{181956}Puede ser el último día de tu vida, cabron.
+{182024}{182100}Me pagaron para eliminarte, brother.
+{182101}{182144}¿Cómo la ves?
+{182319}{182385}Quédate quieto. De rodillas.
+{182422}{182496}Al piso. La mano.
+{182544}{182583}Siéntate.
+{182629}{182695}Apóyate allí. La mano, dije.
+{183008}{183071}¿Quieres algo de tomar?
+{183072}{183147}Tengo ron, agua...
+{183148}{183191}y leche.
+{183296}{183379}- ¿Qué vas a hacer conmigo?|- ¿Eso qué significa?
+{183380}{183464}¿Ron, agua o leche?
+{183465}{183527}Mi pregunta no podría ser más clara.
+{183566}{183623}Mira, pendejete,
+{183624}{183699}te ofrezco un trago.
+{183700}{183768}Si tuvieras algo de inteligencia,
+{183769}{183816}siquiera un poquitito,
+{183816}{183886}te darías cuenta de que no voy a matarte
+{183887}{183949}ahorita,| pendejo.
+{183950}{183982}¿Ron,
+{183983}{184035}agua o leche?
+{184082}{184133}Agua.
+{184424}{184462}Salud.
+{184516}{184547}¿Cómo me la tomo?
+{184548}{184642}Seré tu mesero, pero no tu nana.
+{184712}{184759}¿Quién te pagó para matar me?
+{184760}{184806}¿No lo adivinas?
+{184842}{184896}¿Qué tal si te dijera que fue la chava
+{184897}{184985}que te coges casi todos los días en el motelito?
+{185026}{185065}¿Marta?
+{185144}{185229}No. No puede ser.
+{185230}{185309}Qué razón.
+{185310}{185366}Fue tu esposa.
+{185465}{185523}¿Mi esposa?
+{185564}{185612}¿Ella sabe de la Marta?
+{185612}{185681}No lo sé.|¿Lo sabe?
+{185732}{185835}No, viejo, ella tampoco fue.
+{185964}{186019}¿El esposo de Marta?
+{186078}{186157}¿está casada?|cabron. 
+{186158}{186224}puta_madre, brother.
+{186225}{186338}Hay un chingo de gente quiere matarte, cabron.
+{186339}{186410}¿Sabes qué?
+{186411}{186467}Mi perro| no tiene nombre.
+{186468}{186578}Lo encontré en la calle.|¿Tú cómo lo pondrías?
+{186618}{186682}¿Qué tal "Perro Perdido"?
+{186683}{186753}Puta pero que imaginación, cabron.
+{186754}{186814}Debes ser publicitario.
+{186815}{186887}Pensaba que quizá Gustavo...
+{186888}{186938}¿Gustavo?
+{186974}{187031}¿Conoces a algún Gustavo?
+{187032}{187096}Mi hermano.
+{187097}{187144}Gustavo Garfias.
+{187145}{187235}Gustavo Miranda Garfias.
+{187287}{187352}Es mi medio hermano.
+{187353}{187466}Abel, Abel.
+{187467}{187599}¿Qué hiciste para merecer un hermano así, cabron?
+{187600}{187661}Me dijo que era tu socio.
+{187724}{187807}Socio y medio-hermano.
+{187853}{187901}¿Fue él?
+{187902}{187974}No sé. Tú dime.
+{188065}{188167}- ¿Cuánto te pagó?|- Cinco mil pesos.
+{188168}{188261}Sólo cinco mil putos pesos.
+{188262}{188357}Bueno, y unos boletos para los Rolling Stones.
+{188358}{188447}Hijo de su puta_madre. 
+{188448}{188491}¿Pero por_qué cabron, qué le hice?
+{188492}{188555}Dice que lo estás estafando.
+{188556}{188630}No ni madres, no es cierto. Es mi hermano.
+{188631}{188729}Calma, brother.| Eso es lo que dice.
+{188787}{188923}Deja de gritar o voy a tener que llenarte de plomazos.
+{188924}{189014}¿Entonces qué?
+{189084}{189144}¿Ni vale madres tu puto perro?
+{189145}{189196}Le digas así. 
+{189197}{189277}Los amos salen| a sus perros, sabes.
+{189278}{189355}Y...|¿cómo decirte?
+{189356}{189435}Si no fuera por él, estarías muerto, cabron.
+{189541}{189604}Calma, calma, buey.
+{189605}{189665}Voy a estar en mi cuarto viendo TV.
+{189666}{189806}Cualquiera cosa que te ofrezcan, sólo grita.
+{190422}{190471}Buenos días.
+{190685}{190719}¿Qué tal, brother?
+{190720}{190781}¿No dormiste anoche?
+{191099}{191156}Qué modales.
+{191186}{191234}¿Qué vas a hacer conmigo?
+{191236}{191323}No lo sé. Estoy pensándolo.
+{191324}{191453}Qué me sueltas te pongo mucho dinero. 
+{191515}{191607}Y si mates a mi hermano, le daré| lo que quieras.
+{191632}{191695}No necesito nada. Increíble, ¿no?
+{191741}{191807}Tengo que irme.| Nos vemos un rato.
+{191835}{191904}Tengo que ir al baño.
+{191905}{192015}Ya lo hiciste, cabron. 
+{192016}{192077}Deberías avisarme.
+{192118}{192206}Nos vemos un rato.| Cuídamelo.
+{193708}{193779}- Bueno?|- ¿Tienes mi dinero?
+{193810}{193861}¿Te diste cuenta?|Hoy no fue a la oficina.
+{193862}{193909}¿Lo hizo?
+{193910}{193984}Trae el dinero a mi casa| en dos horas.
+{193985}{194047}No te vas a tardar, brother. 
+{194403}{194506}¿él lo pusiste en el bastón, brother?|Se roban un chingo de coches. 
+{194507}{194590}No me voy a tardarlo si?
+{194640}{194686}Aquí está lo que te prometas.
+{194764}{194801}Pásale.
+{194802}{194878}- Mejor me voy.|- Pásale.
+{194996}{195043}¿Qué pasó?
+{195044}{195101}el dinero está completo. 
+{195102}{195164}está bien. Ven conmigo.
+{195320}{195351}Por acá. 
+{195723}{195770}Se conocen?
+{195937}{196011}Este no era el trato.
+{196012}{196056}¿Cuál trato?
+{196057}{196116}- Que tú ibas a...|- ¿Ibas a qué, brother?
+{196117}{196154}¿Qué?
+{196205}{196278}- Era tu trabajo.|- ¿"Trabajo"?
+{196280}{196359}A mí no me quedo claro, cabron|¿Querías que borrarlo del mapa?
+{196360}{196413}Hazlo tú mismo.
+{196414}{196483}Es todo tuyo,| pinche Caín.
+{196517}{196608}Mátalo, maricón,| es todo tuyo.
+{196658}{196712}Yo le pagué...
+{196713}{196784}Te pagué para hacerlo.| Ese era el trato.
+{196784}{196833}¿No lo vas a matar?
+{196868}{196997}¿Quieres que lo mato yo|¿Lo mato?
+{196998}{197079}¿Lo mato?|Contesta. 
+{197080}{197127}¿Lo mato?
+{197182}{197239}¿O mejora te mato a ti, cabron?
+{197264}{197358}¿Lo mato?|¿De veras quieres que lo haga?
+{197392}{197440}Culero. 
+{198280}{198369}Qué pasó, joven?|¿Se sube o se queda?
+{202084}{202141}Buenos días.
+{202186}{202241}¿Cómo durmieron?
+{202274}{202331}Deben tener mucho de qué hablar.
+{202332}{202439}Qué lástima no poder quedarme,| será interesantísimo.
+{202528}{202635}Pero como podrán suponer, debo salir de la ciudad.
+{202636}{202699}Así es de business.
+{202858}{202911}Siéntanse como en casa.
+{202912}{203003}Espero que arreglen sus diferencias.
+{203083}{203137}¿Qué miras, cabron?
+{203284}{203390}Por otro lado, si hablando no se entienden
+{203391}{203475}le dejaré esto| para ayudar a arreglar las cosas.
+{203476}{203523}¿Okay?
+{203524}{203599}Llamaré para ver cómo los fue todo.
+{203631}{203695}Qué bueno tu saco, cabron. 
+{203696}{203808}Hay leche y huevos en la heladera, si quieren desayunar.
+{204181}{204239}Te vas a morir,| cabron
+{207996}{208093}Hola, te comunicaste con el 55445850.
+{208094}{208128}Ahorita no te puedo contestar,
+{208129}{208193}pero déjame tu recado y un número,
+{208194}{208242}y te llamaré. Gracias.
+{209035}{209087}Maru...
+{209088}{209142}mi amor...
+{209197}{209252}Te habla Martín.
+{209253}{209321}Tu papá...
+{209322}{209393}tu papá de sangre. 
+{209441}{209534}Debes pensar que se trata una broma absurda.
+{209535}{209659}Durante todos estos años estuve muerto para ti.
+{209660}{209796}En realidad, soy un fantasma que sigue vivo.
+{209936}{210001}Cuando te vi por última vez...
+{210002}{210085}acabo de cumplir dos años.
+{210086}{210173}Desde entonces, no pasa un día
+{210174}{210251}en que dejado pensar en ti.
+{210252}{210315}La tarde en que me fui...
+{210404}{210470}Te abracé muy fuerte.
+{210529}{210590}Te cargué..
+{210592}{210677}Rogué que me perdonaras por lo que iba a hacer.
+{210678}{210737}En ese momento,
+{210738}{210788}creí que había cosas más importantes
+{210789}{210857}que estar contigo y con tu madre.
+{210858}{210935}Quería componer el mundo para que después 
+{210936}{211011}compartirlo contigo.
+{211012}{211091}Fracasé, como podrás ver.
+{211150}{211199}Acabé en la cárcel.
+{211235}{211340}Tu madre y yo convinimos en que te dijera... que había muerto.
+{211341}{211438}Fue mi idea, no la suya.
+{211440}{211522}Le juré que nunca buscaría jamás. 
+{211523}{211596}pero no pude.
+{211755}{211877}Estoy muriendo, más de lo que lo estaba.
+{211878}{211967}Voy a volver a buscarte...
+{211968}{212061}una vez que tenga el valor de mirarte a los ojos.
+{212094}{212164}Te quiero mucho, hijita mía.
+{213044}{213091}¿Oye, cómo se llama tu perro?
+{213162}{213220}Negro.
+{213256}{213299}Cállate, pinche Negro.
+{213300}{213355}- Nos vemos.|- órale.
